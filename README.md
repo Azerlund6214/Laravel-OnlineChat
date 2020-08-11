@@ -1,9 +1,7 @@
 # Laravel-OnlineChat
  Онлайн-чат на фреймворке Laravel
 
-Тут будет скрин
-
-
+![Интерфейс](https://i.imgur.com/RtRqOSw.png)
 
 # Инструкция по установке.
 
