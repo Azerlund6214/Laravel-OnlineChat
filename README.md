@@ -1,7 +1,7 @@
 # Laravel-OnlineChat
  Онлайн-чат на фреймворке Laravel
 
-Ссылка на рабочий сайт: www.Позже.com
+Ссылка на рабочий сайт: https://awc-capital.com/chat
 
 ![Интерфейс](https://i.imgur.com/RtRqOSw.png)
 
